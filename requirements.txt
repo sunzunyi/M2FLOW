@@ -1,0 +1,15 @@
+imageio
+matplotlib
+scikit-image
+easydict
+glob2
+path.py
+
+opencv-python>=3.0,<4.0
+
+loguru
+tensorboard
+tqdm
+pytz
+yacs
+timm
